@@ -1,6 +1,6 @@
 # x_distributions
 
-x_distributions is a Python library for general distributions.
+x_distributions is a Python library for general distributions such as Guassian and Binomial.
 
 ## Installation
 
